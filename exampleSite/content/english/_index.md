@@ -2,7 +2,7 @@
 banner:
   title: Let us solve your critical website <br> development challenges
   image: images/banner-art.svg
-  content: ITMConul provides research and consultancy services focusing on open-source
+  content: ITMConsult provides research and consultancy services focusing on open-source
     technologies, capacity development, training, and support.
   button:
     enable: true
